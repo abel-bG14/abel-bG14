@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sebastian Borja 👋
 
-<!--
-**abel-bG14/abel-bG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Full Stack Developer in training
 
-Here are some ideas to get you started:
+💻 I am interested in web application development—designing solutions that integrate frontend, backend, and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am currently continuing to strengthen my knowledge through study and practice.
+
+## 🧑‍💻 Technologies
+
+**Frontend**
+- HTML, CSS & JavaScript
+- TypeScript & React
+- Bootstrap & Tailwind CSS
+
+**Backend**
+- Java & Spring Boot
+- Python & Kotlin
+
+**Databases**
+- PostgreSQL, MySQL & Microsoft SQL Server
+
+**Tools**
+- Git, GitHub, VS Code, IntelliJ IDEA & Postman
+
+## 🎯 Goals
+
+- Develop personal projects from start to finish.
+- Strengthen my full-stack development skills.
+- Improve my programming, version control, and documentation practices.
+- Prepare myself to participate in professional projects.
+
+## 📌 Projects
+
+I am working on building my own projects to apply my knowledge and document my progress as a developer.
+
+## 📫 Contacto
+
+- GitHub: [@abel-bG14](https://github.com/abel-bG14)
+
+---
+
+*Building web solutions, learning with every project, and turning ideas into software.* 🚀
